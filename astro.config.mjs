@@ -8,7 +8,7 @@ export default defineConfig({
 	base: '/blog',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Notlarım | My Blog',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
